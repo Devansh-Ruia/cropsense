@@ -1,0 +1,22 @@
+{
+    "en": {
+        "mainHeading": "Language Selection",
+        "welcomeHeading": "Welcome",
+        "description": "Please select your preferred language from the dropdown above."
+    },
+    "hi": {
+        "mainHeading": "भाषा चयन",
+        "welcomeHeading": "स्वागत है",
+        "description": "कृपया ऊपर दिए गए ड्रॉपडाउन से अपनी पसंदीदा भाषा चुनें।"
+    },
+    "fr": {
+        "mainHeading": "Sélection de la langue",
+        "welcomeHeading": "Bienvenue",
+        "description": "Veuillez sélectionner votre langue préférée dans la liste déroulante ci-dessus."
+    },
+    "es": {
+        "mainHeading": "Selección de idioma",
+        "welcomeHeading": "Bienvenido",
+        "description": "Por favor seleccione su idioma preferido del menú desplegable arriba."
+    }
+}
